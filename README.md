@@ -21,10 +21,10 @@ Convert the Kriya app created in JavaScript to TypeScript. ​​Add a decorator
 ### Follow these instructions to complete the exercise:
 
 - Use appropriate data types for all the data used in the solution​
-- Avoid using *any* type unless you are not sure about the data type
+- Avoid using **any** type unless you are not sure about the data type
 - Create model class for the Board,List and Card
 - Use these model class for method parameters and return parameters 
-- Encapsulate the *transform* method into a class.
-- Decorate the *transform* method with the newly created decorator​
+- Encapsulate the **transform** method into a class.
+- Decorate the **transform** method with the newly created decorator​
 - Indent the Typescript code appropriately​
 - Include comments, wherever required, to make the code readable

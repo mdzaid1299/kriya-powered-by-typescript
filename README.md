@@ -6,7 +6,7 @@ The team of Kriya App have developed a Task Board Render, which can display the 
 
 The app is created using JavaScript which is a dynamically typed language, the types are checked, and datatypes errors are only spotted at runtime. Dynamic type checking results in less optimized code than static type checking.​
 
-​To create less error-prone code, scale the project and to move faster into the market, Kriya app source code need to be changed from JavaScript to TypeScript since TypeScript is strictly typed.
+To create a code that is less prone to errors,to scale the project and to move faster into the market, Kriya app source code needs to be changed from JavaScript to TypeScript since TypeScript is strictly typed.
 
 ### Practice Exercise
  

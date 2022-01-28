@@ -13,13 +13,10 @@ To create a code that is less prone to errors,to scale the project and to move f
 Convert the Kriya app created in JavaScript to TypeScript. ​​Add a decorator to the created class to profile the app performance using the instructions given below. Task Board Render should still display the data in the following format:
 ![](images/kriya-task-board.png)
 
-### Before getting started
-
-- Ensure you have the access to the GitHub boilerplate link​
-- Install Typescript on your system using NPM
 
 ### Follow these instructions to complete the exercise:
 
+- Install Typescript on your system using NPM
 - Use appropriate data types for all the data used in the solution​
 - Avoid using **any** type unless you are not sure about the data type
 - Create model class for the Board,List and Card
